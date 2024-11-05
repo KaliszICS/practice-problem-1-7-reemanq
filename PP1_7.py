@@ -41,8 +41,8 @@ def q5():
 #Do edit the code below
 #Comment the lines below when running your tests
 
-q1()
-q2()
-q3()
-q4()
-q5()
+# q1()
+# q2()
+# q3()
+# q4()
+# q5()
