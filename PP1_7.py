@@ -22,7 +22,7 @@ def q3():
   #Write code here
 
 def q4():
-  ba = str(input("Input a word earlier in the dictionary than google: ")
+  ba = str(input("Input a word earlier in the dictionary than google: "))
   bool1 = ba > "google"
   bool1 = True
   bool1 = False
